@@ -1,0 +1,284 @@
+{
+  "profile": {
+    "name": "Yasaswini Reddy Naga",
+    "title": "Business Analyst",
+    "organization": "Humana | 3+ Years Experience | Saint Louis, MO",
+    "profileImage": "assets/yasaswini_profile.jpg",
+    "cvPath": "Yasaswini Naga Resume.pdf",
+    "metrics": [
+      "3+ Years Experience",
+      "$1.2M Annual Savings",
+      "18% Claims Reduction",
+      "40% Reporting Time Saved"
+    ]
+  },
+  
+  "bio": {
+    "introduction": "<span class=\"highlight\">Strategic Business Analyst</span> with <span class=\"highlight\">3+ years of experience</span> driving decision-making and operational excellence across <span class=\"highlight\">healthcare and tech sectors</span>. Skilled in <span class=\"highlight\">SQL, Tableau, Power BI</span>, and requirements elicitation to deliver <span class=\"highlight\">high-impact analytical solutions</span>.",
+    "background": "Demonstrated ability to synthesize complex data into actionable insights, optimize business processes, and align technological solutions with organizational objectives. Expert in <span class=\"highlight\">stakeholder engagement, requirements analysis</span>, and translating business needs into <span class=\"highlight\">scalable, value-driven solutions</span> in fast-paced environments.",
+    "researchFocus": "Specialized in <span class=\"highlight\">healthcare analytics and process optimization</span>, delivering <span class=\"highlight\">$1.2M annual cost savings</span> through data-driven insights. Proven track record in <span class=\"highlight\">reducing claims processing errors by 18%</span>, <span class=\"highlight\">improving workflow efficiency by 40%</span>, and <span class=\"highlight\">enhancing data accuracy</span> through comprehensive business analysis and cross-functional collaboration."
+  },
+  
+  "contact": {
+    "email": "yasaswinibunny22@gmail.com",
+    "phone": "+1 (617) 671-9774",
+    "location": "Saint Louis, MO",
+    "linkedin": "https://www.linkedin.com/in/yasaswini-naga",
+    "github": null,
+    "googleScholar": null,
+    "twitter": null,
+    "website": null,
+    "trailhead": null
+  },
+  
+  "navigation": [
+    {"label": "About", "href": "#banner"},
+    {"label": "Experience", "href": "#publications"},
+    {"label": "Projects", "href": "#projects"},
+    {"label": "Skills", "href": "#skills"},
+    {"label": "Education", "href": "#education"},
+    {"label": "Contact", "href": "mailto:yasaswinibunny22@gmail.com"}
+  ],
+  
+  "publications": [
+    {
+      "id": "humana",
+      "title": "Business Analyst",
+      "authors": "Humana | USA",
+      "venue": "Dec 2023 - Present",
+      "description": "<div class='impact-metrics'><span class='metric'>5M+ Members Analyzed</span><span class='metric'>$1.2M Annual Savings</span><span class='metric'>15+ Tableau Dashboards</span><span class='metric'>18% Claims Reduction</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Extracted claims data for over 5 million members</strong> using SQL to identify anomalies in billing codes, <span class='highlight'>reducing incorrect claims resubmissions by 18% and saving approximately $1.2M annually</span><br/>• <strong>Built 15+ Tableau dashboards</strong> for executive and operations teams to monitor performance metrics for Medicare Advantage programs, <span class='highlight'>decreasing reporting preparation time by 40% and improving data accuracy across departments</span><br/>• <strong>Worked with care coordination and IT teams</strong> to gather and document 30+ detailed business and functional requirements for a care plan digitization project, <span class='highlight'>which increased staff compliance with workflow standards</span><br/>• <strong>Investigated prior authorization delays</strong> by reviewing workflows and stakeholder interviews; proposed improvements <span class='highlight'>reduced average processing time from 5.2 days to 2.4 days, improving patient satisfaction scores</span><br/>• <strong>Conducted weekly root cause analyses</strong> on service request failures, identifying common breakdown points and contributing to procedural changes that <span class='highlight'>lowered escalations by 26% over a 6-month period</span><br/>• <strong>Led UAT coordination for 3 SAP ERP–EHR integration updates</strong>, validating 50+ defects, tracking resolution in JIRA, and ensuring no critical issues during production deployment across Humana's primary care ecosystem<br/>• <strong>Analyzed member engagement data</strong> using SQL and Excel to identify trends in wellness program participation, informing a targeted outreach campaign that <span class='highlight'>increased preventive screening enrollment by 12.7% quarter-over-quarter</span>",
+      "image": "images/humana-logo.png",
+      "links": {
+        "paper": null,
+        "github": null,
+        "status": null
+      }
+    },
+    {
+      "id": "cybage-software",
+      "title": "Business Analyst",
+      "authors": "Cybage Software | India",
+      "venue": "Jan 2021 - Nov 2022",
+      "description": "<div class='impact-metrics'><span class='metric'>4 Client Platforms</span><span class='metric'>100+ User Stories</span><span class='metric'>35% Manual Reduction</span><span class='metric'>20+ Global Stakeholders</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Facilitated requirements gathering for 4 client software platforms</strong> in retail and logistics sectors, <span class='highlight'>documenting 100+ user stories, functional specs, and workflows that ensured consistent delivery across Agile development cycles</span><br/>• <strong>Conducted stakeholder interviews with more than 20 client representatives</strong> across global time zones to identify business needs, <span class='highlight'>capturing accurate acceptance criteria and reducing requirement changes during development</span><br/>• <strong>Created over 25 detailed process flowcharts</strong> using Visio and Lucidchart to map current and proposed workflows, <span class='highlight'>enabling development teams to reduce turnaround times on feature delivery</span><br/>• <strong>Reviewed 200,000+ data records during legacy system migrations</strong>, using SQL and Excel validations to flag inconsistencies and <span class='highlight'>support data cleansing processes that improved import accuracy</span><br/>• <strong>Coordinated UAT and QA cycles for 5 major feature rollouts</strong>, preparing 200+ test cases, validating system behavior, and <span class='highlight'>tracking over 60 defects across multiple sprints in JIRA</span><br/>• <strong>Produced weekly executive-level reports</strong> summarizing risks, open issues, timelines, and resource utilization for all active projects, <span class='highlight'>supporting on-time delivery across 100% of client implementations during tenure</span><br/>• <strong>Collaborated with cross-functional teams to redesign client inventory workflows</strong>, leading to a revised module that <span class='highlight'>cut manual reconciliation efforts by 35%, validated through post-deployment metrics over a 3-month window</span>",
+      "image": "images/cybage-software-logo-new.png",
+      "links": {
+        "paper": null,
+        "github": null,
+        "status": null
+      }
+    }
+  ],
+  
+  "skills": {
+    "businessAnalysis": [
+      "Requirements Elicitation",
+      "Stakeholder Management",
+      "Gap Analysis",
+      "SWOT Analysis",
+      "Business Process Modeling (BPM)",
+      "Root Cause Analysis",
+      "Use Case Development",
+      "Impact Analysis"
+    ],
+    "dataAnalysisVisualization": [
+      "SQL (Joins, Subqueries, CTEs)",
+      "Microsoft Excel (Pivot Tables, VLOOKUP, Macros)",
+      "Power BI",
+      "Tableau",
+      "Google Data Studio",
+      "Data Storytelling"
+    ],
+    "toolsTechnologies": [
+      "JIRA",
+      "Confluence",
+      "Microsoft Office Suite",
+      "Visio",
+      "Lucid Chart",
+      "Trello",
+      "Asana",
+      "SAP ERP",
+      "Smartsheet"
+    ],
+    "documentationReporting": [
+      "Business Requirement Documents (BRD)",
+      "Functional Requirement Documents (FRD)",
+      "User Stories",
+      "Test Cases",
+      "Traceability Matrix",
+      "User Manuals"
+    ],
+    "softwareDevelopmentQA": [
+      "Agile (Scrum/Kanban)",
+      "SDLC",
+      "STLC",
+      "UAT Coordination",
+      "Defect Tracking",
+      "Regression Testing"
+    ],
+    "processWorkflowImprovement": [
+      "Process Mapping",
+      "Workflow Automation",
+      "Lean Principles",
+      "Six Sigma",
+      "KPIs and Metrics Tracking"
+    ],
+    "softSkills": [
+      "Analytical Thinking",
+      "Problem-solving",
+      "Strong Communication",
+      "Time Management",
+      "Collaboration",
+      "Adaptability",
+      "Stakeholder Engagement",
+      "Presentation Skills"
+    ]
+  },
+  
+  "projects": [
+    {
+      "id": "airline-delay-mitigation",
+      "title": "Airline Delay Mitigation System",
+      "year": "2025",
+      "category": "academic",
+      "shortDescription": "Python-based analytics system analyzing 500K+ flight records with 89% delay prediction accuracy and real-time monitoring capabilities.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>500K+ Flight Records</span><span class='metric'>89% Prediction Accuracy</span><span class='metric'>Real-time Monitoring</span><span class='metric'>Power BI Dashboards</span></div><br/>Comprehensive analytics project analyzing airline operational data to predict and mitigate flight delays using advanced data processing techniques. Processed over 500,000 flight records, implementing sophisticated data cleaning and feature engineering pipelines. Developed predictive models achieving 89% accuracy in delay forecasting, enabling proactive decision-making for airline operations. Created interactive Power BI dashboards for real-time monitoring and incident response, facilitating quicker operational decisions and improved customer experience through data-driven insights.",
+      "media": {
+        "type": "image",
+        "src": "images/airline-delay-mitigation.jpg",
+        "poster": null
+      },
+      "techStack": [
+        "Python",
+        "SQL",
+        "Power BI",
+        "Predictive Analytics",
+        "Data Processing",
+        "Real-time Monitoring",
+        "Business Intelligence"
+      ],
+      "metrics": [
+        {"value": "89%", "label": "Prediction Accuracy"},
+        {"value": "500K+", "label": "Flight Records"},
+        {"value": "Real-time", "label": "Monitoring"}
+      ],
+      "links": {
+        "website": null,
+        "github": null,
+        "details": "#"
+      },
+      "documentPath": null,
+      "isExpandable": true
+    },
+    {
+      "id": "financial-performance-forecasting",
+      "title": "Financial Performance Forecasting Platform",
+      "year": "2024",
+      "category": "academic",
+      "shortDescription": "Advanced forecasting platform using ARIMA and regression analysis for enhanced financial prediction accuracy and automated anomaly detection.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>ARIMA Modeling</span><span class='metric'>Regression Analysis</span><span class='metric'>Anomaly Detection</span><span class='metric'>Financial Forecasting</span></div><br/>Comprehensive financial analytics platform implementing advanced time series forecasting techniques to enhance financial performance prediction. Developed sophisticated ARIMA models and regression analysis frameworks for accurate financial forecasting, enabling strategic business planning and risk assessment. Implemented automated anomaly detection algorithms for financial discrepancies, ensuring data integrity and providing timely alerts for exceptional financial events. The platform provides stakeholders with reliable forecasting capabilities and real-time monitoring of financial performance indicators.",
+      "media": {
+        "type": "image",
+        "src": "images/financial-forecasting.jpg",
+        "poster": null
+      },
+      "techStack": [
+        "Python",
+        "ARIMA",
+        "Regression Analysis",
+        "Time Series Forecasting",
+        "Anomaly Detection",
+        "Financial Modeling",
+        "Data Analytics"
+      ],
+      "metrics": [
+        {"value": "Enhanced", "label": "Forecast Accuracy"},
+        {"value": "Automated", "label": "Anomaly Detection"},
+        {"value": "Real-time", "label": "Monitoring"}
+      ],
+      "links": {
+        "website": null,
+        "github": null,
+        "details": "#"
+      },
+      "documentPath": null,
+      "isExpandable": true
+    },
+    {
+      "id": "auto-retail-inventory-optimization",
+      "title": "Auto Retail Inventory Optimization System",
+      "year": "2024",
+      "category": "academic",
+      "shortDescription": "Inventory management system using EOQ and safety stock analysis achieving 20% stockout reduction and optimized supply chain efficiency.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>20% Stockout Reduction</span><span class='metric'>EOQ Analysis</span><span class='metric'>Safety Stock Optimization</span><span class='metric'>Supply Chain Dashboard</span></div><br/>Comprehensive inventory optimization project implementing Economic Order Quantity (EOQ) and safety stock analysis to minimize inventory costs while maintaining service levels. Developed sophisticated algorithms to reduce stockouts by 20% and optimize inventory carrying costs across automotive retail operations. Created a centralized dashboard system to monitor stock levels, reorder points, and supplier lead times, enabling proactive inventory management and supply chain optimization. The system provides real-time visibility into inventory performance and automated recommendations for inventory replenishment strategies.",
+      "media": {
+        "type": "image",
+        "src": "images/inventory-optimization.jpg",
+        "poster": null
+      },
+      "techStack": [
+        "Python",
+        "SQL",
+        "Inventory Management Algorithms",
+        "EOQ Analysis",
+        "Safety Stock Optimization",
+        "Supply Chain Analytics",
+        "Dashboard Development"
+      ],
+      "metrics": [
+        {"value": "20%", "label": "Stockout Reduction"},
+        {"value": "Optimized", "label": "Inventory Costs"},
+        {"value": "Real-time", "label": "Monitoring"}
+      ],
+      "links": {
+        "website": null,
+        "github": null,
+        "details": "#"
+      },
+      "documentPath": null,
+      "isExpandable": true
+    }
+  ],
+  
+  "certifications": [
+    {
+      "name": "Databricks Generative AI Fundamentals",
+      "issuer": "Databricks",
+      "date": "Jan 2025",
+      "credentialId": null,
+      "credentialUrl": null
+    }
+  ],
+  
+  "education": [
+    {
+      "degree": "Masters in Applied Analytics",
+      "institution": "Saint Louis University",
+      "location": "Missouri",
+      "year": "Jan 2023 – May 2024",
+      "logo": "images/saint-louis-university-logo.png"
+    },
+    {
+      "degree": "Bachelors of Business Administration",
+      "institution": "Saanvi Degree College",
+      "location": "India",
+      "year": "Aug 2019 – Aug 2022",
+      "logo": "images/saanvi-degree-college-logo.png"
+    }
+  ],
+  
+  "siteConfig": {
+    "siteTitle": "Yasaswini Reddy Naga - Business Analyst",
+    "favicon": null,
+    "themeColors": {
+      "primaryRed": "#2E86AB",
+      "lightRed": "#3498DB", 
+      "darkRed": "#1B4F72",
+      "textDark": "#2C3E50",
+      "textLight": "#6c757d",
+      "bgLight": "#f8f9fa",
+      "white": "#ffffff"
+    },
+    "domain": "yasaswini-naga.com",
+    "googleAnalytics": null
+  }
+}
