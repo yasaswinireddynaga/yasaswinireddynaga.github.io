@@ -594,25 +594,13 @@
 
     function getSkillsCategories() {
         return [
-            { key: 'programming', label: 'Programming & Scripting' },
-            { key: 'bigDataTechnologies', label: 'Big Data Technologies' },
-            { key: 'dataProcessing', label: 'Data Processing Frameworks' },
-            { key: 'cloudPlatforms', label: 'Cloud Platforms & Services' },
-            { key: 'databases', label: 'Databases & Storage' },
-            { key: 'dataWarehousing', label: 'Data Warehousing & Modeling' },
-            { key: 'etlTools', label: 'ETL & Integration Tools' },
-            { key: 'dataGovernance', label: 'Data Quality & Governance' },
-            { key: 'versionControl', label: 'Version Control & Collaboration' },
-            { key: 'containerization', label: 'Containerization & DevOps' },
-            { key: 'monitoring', label: 'Monitoring & Logging' },
-            { key: 'visualization', label: 'Visualization & Reporting' },
-            { key: 'methodologies', label: 'Methodologies' },
-            { key: 'softSkills', label: 'Professional Skills' },
-            // Legacy fallbacks (in case present)
-            { key: 'toolsAndDevOps', label: 'Tools & DevOps' },
-            { key: 'analyticsTools', label: 'Analytics & Data' },
-            { key: 'integrationTools', label: 'Integration & Tools' },
-            { key: 'otherTools', label: 'Productivity Tools' }
+            { key: 'businessAnalysis', label: 'Business Analysis' },
+            { key: 'dataAnalysisVisualization', label: 'Data Analysis & Visualization' },
+            { key: 'toolsTechnologies', label: 'Tools & Technologies' },
+            { key: 'documentationReporting', label: 'Documentation & Reporting' },
+            { key: 'softwareDevelopmentQA', label: 'Software Development & QA' },
+            { key: 'processWorkflowImprovement', label: 'Process & Workflow Improvement' },
+            { key: 'softSkills', label: 'Professional Skills' }
         ];
     }
 
@@ -644,24 +632,13 @@
     function getCategoryIcon(key) {
         const svgProps = 'width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"';
         const icons = {
-            programming: `<svg ${svgProps}><path d="M16 18l6-6-6-6"/><path d="M8 6L2 12l6 6"/></svg>`,
-            bigDataTechnologies: `<svg ${svgProps}><circle cx="7" cy="12" r="3"/><circle cx="17" cy="7" r="3"/><circle cx="17" cy="17" r="3"/><path d="M10 12h4M14 7l-1 2M14 17l-1-2"/></svg>`,
-            dataProcessing: `<svg ${svgProps}><rect x="3" y="4" width="7" height="6" rx="1"/><rect x="14" y="4" width="7" height="6" rx="1"/><rect x="3" y="14" width="7" height="6" rx="1"/><path d="M10 7h4M7 10v4M17 10v4"/></svg>`,
-            cloudPlatforms: `<svg ${svgProps}><path d="M18 18H7a4 4 0 010-8 5 5 0 019.5 1.5A3.5 3.5 0 0118 18z"/></svg>`,
-            databases: `<svg ${svgProps}><ellipse cx="12" cy="5" rx="8" ry="3"/><path d="M4 5v6c0 1.7 3.6 3 8 3s8-1.3 8-3V5"/><path d="M4 11v6c0 1.7 3.6 3 8 3s8-1.3 8-3v-6"/></svg>`,
-            dataWarehousing: `<svg ${svgProps}><path d="M3 7l9-5 9 5v10l-9 5-9-5V7z"/><path d="M3 12l9 5 9-5"/></svg>`,
-            etlTools: `<svg ${svgProps}><path d="M3 7h6v6H3zM9 10h6M15 10v4M15 14h6"/></svg>`,
-            dataGovernance: `<svg ${svgProps}><path d="M12 2l7 4v6c0 5-3 8-7 10-4-2-7-5-7-10V6l7-4z"/><path d="M9 12l2 2 4-4"/></svg>`,
-            versionControl: `<svg ${svgProps}><circle cx="6" cy="6" r="2"/><circle cx="6" cy="18" r="2"/><circle cx="18" cy="12" r="2"/><path d="M8 6h6a4 4 0 014 4v0M8 18h6a4 4 0 004-4v0"/></svg>`,
-            containerization: `<svg ${svgProps}><rect x="3" y="7" width="18" height="10" rx="2"/><path d="M7 7v10M12 7v10M17 7v10"/></svg>`,
-            monitoring: `<svg ${svgProps}><path d="M3 12h3l3 6 4-12 3 6h5"/></svg>`,
-            visualization: `<svg ${svgProps}><rect x="3" y="10" width="4" height="10"/><rect x="10" y="6" width="4" height="14"/><rect x="17" y="3" width="4" height="17"/></svg>`,
-            methodologies: `<svg ${svgProps}><path d="M4 6h16M4 12h12M4 18h8"/></svg>`,
-            softSkills: `<svg ${svgProps}><path d="M12 12a5 5 0 100-10 5 5 0 000 10z"/><path d="M20 21a8 8 0 10-16 0"/></svg>`,
-            toolsAndDevOps: `<svg ${svgProps}><path d="M12 2v4M12 18v4M4.9 4.9l2.8 2.8M16.3 16.3l2.8 2.8M2 12h4M18 12h4M4.9 19.1l2.8-2.8M16.3 7.7l2.8-2.8"/></svg>`,
-            analyticsTools: `<svg ${svgProps}><path d="M3 3v18h18"/><path d="M7 15l4-4 3 3 4-5"/></svg>`,
-            integrationTools: `<svg ${svgProps}><path d="M7 7h10v10H7z"/><path d="M2 12h5M17 12h5"/></svg>`,
-            otherTools: `<svg ${svgProps}><path d="M12 2l3 5-3 5-3-5 3-5z"/><path d="M5 19h14M5 22h14"/></svg>`
+            businessAnalysis: `<svg ${svgProps}><rect x="3" y="3" width="18" height="18" rx="2" ry="2"/><rect x="7" y="7" width="3" height="9"/><rect x="14" y="7" width="3" height="5"/></svg>`,
+            dataAnalysisVisualization: `<svg ${svgProps}><rect x="3" y="10" width="4" height="10"/><rect x="10" y="6" width="4" height="14"/><rect x="17" y="3" width="4" height="17"/></svg>`,
+            toolsTechnologies: `<svg ${svgProps}><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg>`,
+            documentationReporting: `<svg ${svgProps}><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14,2 14,8 20,8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10,9 9,9 8,9"/></svg>`,
+            softwareDevelopmentQA: `<svg ${svgProps}><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/><path d="M12 2l-2 20"/></svg>`,
+            processWorkflowImprovement: `<svg ${svgProps}><path d="M23 7l-7 5 7 5V7z"/><path d="M1 7l7 5-7 5V7z"/><path d="M12 19a7 7 0 1 0 0-14 7 7 0 0 0 0 14z"/></svg>`,
+            softSkills: `<svg ${svgProps}><path d="M12 12a5 5 0 1 0 0-10 5 5 0 0 0 0 10z"/><path d="M20 21a8 8 0 1 0-16 0"/></svg>`
         };
         return icons[key] || `<svg ${svgProps}><circle cx="12" cy="12" r="9"/></svg>`;
     }
