@@ -236,6 +236,145 @@
       },
       "documentPath": null,
       "isExpandable": true
+    },
+    {
+      "id": "us-healthcare-analysis-powerbi",
+      "title": "US Healthcare Analysis Dashboard",
+      "year": "2024",
+      "category": "professional",
+      "shortDescription": "Comprehensive Power BI dashboard analyzing U.S. healthcare industry dynamics from 2019-2020 with patient outcomes and provider insights.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>Healthcare Industry Analysis</span><span class='metric'>Power BI Dashboard</span><span class='metric'>Patient Outcomes</span><span class='metric'>Provider Insights</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Comprehensive healthcare industry analysis</strong> covering 2019-2020 data to reveal strategic insights for healthcare stakeholders<br/>• <strong>Built interactive Power BI dashboard</strong> with DAX calculations for advanced analytics and dynamic filtering capabilities<br/>• <strong>Analyzed patient demographics and treatment efficacy</strong> to identify trends in healthcare delivery and patient outcomes<br/>• <strong>Created Entity Relationship (ER) diagrams</strong> illustrating complex data architecture and multidimensional analysis approach<br/>• <strong>Tracked monthly expense trends and operational metrics</strong> to support resource optimization and strategic planning for healthcare administrators<br/>• <strong>Developed hospital performance evaluation framework</strong> enabling data-driven decision-making and improved healthcare service delivery<br/>• <strong>Generated actionable intelligence through comprehensive visualization</strong> supporting informed healthcare policy and operational decisions",
+      "media": {
+        "type": "image",
+        "src": "images/healthcare-analytics-dashboard.jpg",
+        "poster": null
+      },
+      "techStack": [
+        "Power BI",
+        "DAX",
+        "Healthcare Analytics",
+        "Data Visualization",
+        "Healthcare Data",
+        "Interactive Dashboards",
+        "Business Intelligence"
+      ],
+      "metrics": [
+        {"value": "2019-2020", "label": "Healthcare Data Period"},
+        {"value": "Interactive", "label": "Power BI Dashboard"},
+        {"value": "Strategic", "label": "Healthcare Insights"}
+      ],
+      "links": {
+        "website": null,
+        "github": "https://github.com/yasaswinireddynaga/us-healthcare-analysis-powerbi",
+        "details": "#"
+      },
+      "documentPath": null,
+      "isExpandable": true
+    },
+    {
+      "id": "time-series-analysis-forecasting",
+      "title": "Time Series Analysis & Forecasting Platform",
+      "year": "2024",
+      "category": "professional",
+      "shortDescription": "Advanced Python-based forecasting platform implementing multiple ML algorithms including ARIMA, LSTM, CNNs, and Facebook Prophet for strategic decision-making.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>Multiple ML Algorithms</span><span class='metric'>ARIMA & SARIMA</span><span class='metric'>LSTM & CNNs</span><span class='metric'>Facebook Prophet</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Implemented comprehensive forecasting methodology</strong> using traditional statistical methods (ARIMA, SARIMA, Holt-Winters) and advanced machine learning approaches<br/>• <strong>Developed neural network forecasting models</strong> including Multi-Layer Perceptrons (MLPs), Long Short-Term Memory (LSTMs), and Convolutional Neural Networks (CNNs)<br/>• <strong>Integrated Facebook Prophet and FLAML AutoML</strong> for automated forecasting optimization and enhanced prediction accuracy<br/>• <strong>Built end-to-end forecasting pipeline</strong> with exploratory data analysis, stationarity testing, and time series decomposition techniques<br/>• <strong>Created modular Jupyter Notebook implementation</strong> demonstrating progression from basic to advanced forecasting paradigms<br/>• <strong>Established comprehensive time series visualization framework</strong> for strategic decision-making and operational excellence<br/>• <strong>Developed educational resource</strong> covering multiple forecasting techniques for industry professionals and researchers",
+      "media": {
+        "type": "image",
+        "src": "images/time-series-forecasting.jpg",
+        "poster": null
+      },
+      "techStack": [
+        "Python",
+        "ARIMA/SARIMA",
+        "LSTM",
+        "CNNs",
+        "Facebook Prophet",
+        "FLAML AutoML",
+        "Jupyter Notebook",
+        "Time Series Analysis"
+      ],
+      "metrics": [
+        {"value": "Multiple", "label": "ML Algorithms"},
+        {"value": "Advanced", "label": "Neural Networks"},
+        {"value": "Automated", "label": "Forecasting"}
+      ],
+      "links": {
+        "website": null,
+        "github": "https://github.com/yasaswinireddynaga/time-series-analysis-and-forecasting-with-python",
+        "details": "#"
+      },
+      "documentPath": null,
+      "isExpandable": true
+    },
+    {
+      "id": "retail-data-analytics-python-sql",
+      "title": "Retail Data Analytics Integration Platform",
+      "year": "2024",
+      "category": "professional",
+      "shortDescription": "Comprehensive Python and SQL integration project analyzing retail order data to identify sales patterns, customer segments, and business optimization opportunities.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>Python & SQL Integration</span><span class='metric'>Customer Segmentation</span><span class='metric'>Sales Pattern Analysis</span><span class='metric'>ETL Workflows</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Developed end-to-end retail analytics platform</strong> using Python Pandas and SQL Server for comprehensive data lifecycle management<br/>• <strong>Implemented Extract, Transform, Load (ETL) workflows</strong> with automated data cleaning and preprocessing capabilities<br/>• <strong>Conducted advanced customer segmentation analysis</strong> to identify top-selling products and purchasing behavior patterns<br/>• <strong>Built comprehensive sales period optimization framework</strong> determining peak sales periods and revenue contribution analysis<br/>• <strong>Created targeted marketing strategy recommendations</strong> based on customer behavior insights and product performance metrics<br/>• <strong>Established data quality validation processes</strong> using SQL and Excel validations for data consistency and accuracy<br/>• <strong>Demonstrated technical proficiency in data analytics lifecycle</strong> from raw data acquisition to actionable business insights and strategic recommendations",
+      "media": {
+        "type": "image",
+        "src": "images/retail-data-analytics.jpg",
+        "poster": null
+      },
+      "techStack": [
+        "Python",
+        "SQL Server",
+        "Pandas",
+        "Jupyter Notebook",
+        "ETL Workflows",
+        "Customer Segmentation",
+        "Retail Analytics",
+        "Data Processing"
+      ],
+      "metrics": [
+        {"value": "End-to-End", "label": "Analytics Platform"},
+        {"value": "Advanced", "label": "Customer Segmentation"},
+        {"value": "Strategic", "label": "Business Insights"}
+      ],
+      "links": {
+        "website": null,
+        "github": "https://github.com/yasaswinireddynaga/retail-data-analytics-project-python-sql-integration",
+        "details": "#"
+      },
+      "documentPath": null,
+      "isExpandable": true
+    },
+    {
+      "id": "financial-insights-banking-powerbi",
+      "title": "Financial Insights in Banking Data Platform",
+      "year": "2024",
+      "category": "professional",
+      "shortDescription": "Advanced Power BI platform analyzing banking transactions and customer data to generate actionable financial insights for strategic decision-making.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>Banking Analytics</span><span class='metric'>Credit Score Analysis</span><span class='metric'>Risk Management</span><span class='metric'>Customer Demographics</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Developed comprehensive banking analytics platform</strong> using Power BI with Banking Transactions and Customer Account Details datasets<br/>• <strong>Implemented advanced DAX analysis and predictive modeling</strong> for credit score evaluation and risk management optimization<br/>• <strong>Created branch efficiency rating system</strong> enabling performance optimization and strategic resource allocation across banking services<br/>• <strong>Built customer demographic analysis framework</strong> identifying high-value transactions and customer relationship insights<br/>• <strong>Established data cleaning and standardization processes</strong> with advanced data relationship establishment for comprehensive analytics<br/>• <strong>Generated actionable financial insights</strong> to improve customer satisfaction through data-driven optimizations and identify new growth opportunities<br/>• <strong>Developed interactive dashboard solutions</strong> supporting strategic decision-making and enhanced risk assessment capabilities for banking institutions",
+      "media": {
+        "type": "image",
+        "src": "images/financial-banking-insights.jpg",
+        "poster": null
+      },
+      "techStack": [
+        "Power BI",
+        "DAX",
+        "Banking Analytics",
+        "Credit Score Analysis",
+        "Predictive Modeling",
+        "Risk Management",
+        "Financial Data",
+        "Interactive Dashboards"
+      ],
+      "metrics": [
+        {"value": "Comprehensive", "label": "Banking Analytics"},
+        {"value": "Advanced", "label": "Risk Management"},
+        {"value": "Strategic", "label": "Financial Insights"}
+      ],
+      "links": {
+        "website": null,
+        "github": "https://github.com/yasaswinireddynaga/financial-insights-in-banking-data-using-powerbi",
+        "details": "#"
+      },
+      "documentPath": null,
+      "isExpandable": true
     }
   ],
   
